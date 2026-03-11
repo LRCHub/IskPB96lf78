@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "base_track": "恋音と雨空",
+  "base_track": "恋音と雨空 (with Intro)",
   "base_artist": "AAA",
-  "createdAt": "2026-02-08T11:02:10.475312Z",
+  "createdAt": "2026-03-11T11:32:52.472323Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -39,58 +39,58 @@
     {
       "id": "lrclib_5",
       "source": "lrclib",
-      "title": "恋音と雨空 (15thbest)",
+      "title": "恋音と雨空",
       "artist": "AAA",
       "has_synced": true,
-      "path": "select/05_恋音と雨空_(15thbest)_AAA.lrc"
+      "path": "select/05_恋音と雨空_AAA.lrc"
     },
     {
       "id": "lrclib_6",
       "source": "lrclib",
       "title": "恋音と雨空",
-      "artist": "AAA",
+      "artist": "BENI",
       "has_synced": true,
-      "path": "select/06_恋音と雨空_AAA.lrc"
+      "path": "select/06_恋音と雨空_BENI.lrc"
     },
     {
       "id": "lrclib_7",
       "source": "lrclib",
       "title": "恋音と雨空",
-      "artist": "BENI",
+      "artist": "AAA",
       "has_synced": true,
-      "path": "select/07_恋音と雨空_BENI.lrc"
+      "path": "select/07_恋音と雨空_AAA.lrc"
     },
     {
       "id": "lrclib_8",
       "source": "lrclib",
-      "title": "恋音と雨空",
-      "artist": "AAA",
+      "title": "恋音と雨空 (恋歌与雨天)",
+      "artist": "AAA (トリプル・エー)",
       "has_synced": true,
-      "path": "select/08_恋音と雨空_AAA.lrc"
+      "path": "select/08_恋音と雨空_(恋歌与雨天)_AAA_(トリプル・エー).lrc"
     },
     {
       "id": "lrclib_9",
       "source": "lrclib",
-      "title": "恋音と雨空 (恋歌与雨天)",
-      "artist": "AAA (トリプル・エー)",
+      "title": "恋音と雨空 (with Intro)",
+      "artist": "AAA",
       "has_synced": true,
-      "path": "select/09_恋音と雨空_(恋歌与雨天)_AAA_(トリプル・エー).lrc"
+      "path": "select/09_恋音と雨空_(with_Intro)_AAA.lrc"
     },
     {
       "id": "lrclib_10",
       "source": "lrclib",
-      "title": "恋音と雨空 (Live at YANMAR STADIUM NAGAI 2019.8.17)",
+      "title": "恋音と雨空 (15thbest)",
       "artist": "AAA",
-      "has_synced": false,
-      "path": "select/10_恋音と雨空_(Live_at_YANMAR_STADIUM_NAGAI_2019.8.17)_AAA.txt"
+      "has_synced": true,
+      "path": "select/10_恋音と雨空_(15thbest)_AAA.lrc"
     },
     {
       "id": "lrclib_11",
       "source": "lrclib",
-      "title": "恋音と雨空 (with Intro)",
+      "title": "恋音と雨空 (Live at YANMAR STADIUM NAGAI 2019.8.17)",
       "artist": "AAA",
-      "has_synced": true,
-      "path": "select/11_恋音と雨空_(with_Intro)_AAA.lrc"
+      "has_synced": false,
+      "path": "select/11_恋音と雨空_(Live_at_YANMAR_STADIUM_NAGAI_2019.8.17)_AAA.txt"
     },
     {
       "id": "lrclib_12",
@@ -99,6 +99,14 @@
       "artist": "AAA",
       "has_synced": true,
       "path": "select/12_恋音と雨空_(Acoustic_Version)_AAA.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "恋音と雨空 (Live at TOKYO DOME 2019.12.8)",
+      "artist": "AAA",
+      "has_synced": true,
+      "path": "select/13_恋音と雨空_(Live_at_TOKYO_DOME_2019.12.8)_AAA.lrc"
     },
     {
       "id": "petitlyrics_1",
